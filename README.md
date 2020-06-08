@@ -1,9 +1,10 @@
-# Let's Explore New York
+# Let's Explore the Bay Area
 
 ## Intro
-New York City is made up of 5 very distinct boroughs: Manhattan, the Bronx, Queens, Brooklyn, and Staten Island. Each borough has its own unique attractions and populations.
+The Bay Area is home to an amazing variety of sights and destinations - Work through this lab to learn about the many attractions in the region (and feel free to add your own!).
 
-![](https://media.giphy.com/media/3o7WTNr17rDCFsbOAU/giphy.gif)
+
+![](https://media.giphy.com/media/josB0ZKSutNgA/giphy.gif)
 
 ## Task
 If you take a look in your index.html file you'll see that you've been given a page with 5 divs. Each one of these divs has an id corresponding to a different borough has been styled to have a different background color.
