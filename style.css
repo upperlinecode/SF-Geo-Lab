@@ -1,0 +1,46 @@
+div {
+  text-align: center;
+}
+
+#San_Francisco {
+  min-height: 100px;
+  width: 100%;
+  background-color: black;
+  color: orange;
+}
+
+#Berkeley {
+  min-height: 100px;
+  width: 100%;
+  background-color: #C4820F;
+  color:#003262
+
+}
+
+#Oakland {
+  min-height: 100px;
+  width: 100%;
+  background-color: #A5ACAF;
+  color: black;
+}
+
+#South_Bay {
+  min-height: 100px;
+  width: 100%;
+  background-color: #006D75;
+  color: white;
+}
+
+#Marin_County {
+  min-height: 100px;
+  width: 100%;
+  background-color: #722f37;
+  color: white;
+}
+
+img {
+  margin: 5px;
+  display: inline-flex;
+  height: 150px;
+  width: auto;
+}
