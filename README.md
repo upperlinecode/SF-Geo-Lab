@@ -1,5 +1,7 @@
 # Let's Explore the Bay Area
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/SF-Geo-Lab)](https://repl.it/github/upperlinecode/SF-Geo-Lab)
+
 ## Intro
 The Bay Area is home to an amazing variety of sights and destinations - Work through this lab to learn about the many attractions in the region (and feel free to add your own!).
 
